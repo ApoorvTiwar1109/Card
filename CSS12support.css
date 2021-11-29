@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+.container{
+    position: absolute;
+    top: 90px;
+    left: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 4%;
+    width: 600px;
+    border: 4px solid whitesmoke;
+    border-radius: 13px;
+    justify-content: center;
+    background-color: black;
+    box-shadow: 15px 15px 0px 3px rgb(77, 56, 71), 17px 17px 0px 3px greenyellow;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 2px 2px 2px red;
+    color: black;
+}
+p{
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    text-shadow: 5px 3px 3px rebeccapurple;
+
+}
